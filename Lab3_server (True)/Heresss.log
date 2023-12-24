@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\VKostovsky\source\repos\Heresss\Source.cpp(40,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 222 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  Heresss.vcxproj -> C:\Users\VKostovsky\source\repos\Heresss\x64\Release\Heresss.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
