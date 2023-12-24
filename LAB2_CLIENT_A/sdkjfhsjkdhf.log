@@ -1,0 +1,8 @@
+﻿  sdkjfhsjkdhf.cpp
+C:\Users\Vladi\source\repos\sdkjfhsjkdhf\sdkjfhsjkdhf.cpp(97,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  85 of 148 functions (57.4%) were compiled, the rest were copied from previous compilation.
+    37 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  sdkjfhsjkdhf.vcxproj -> C:\Users\Vladi\source\repos\sdkjfhsjkdhf\x64\Release\sdkjfhsjkdhf.exe
